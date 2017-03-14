@@ -1,3 +1,6 @@
 Welcome to the research about GIT vs SVN
 
 Hello.
+
+
+Add a new file - changes
